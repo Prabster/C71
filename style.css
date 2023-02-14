@@ -1,0 +1,47 @@
+body {
+    background-color:burlywood;
+    text-align:center;
+}
+.vid1 {
+    Width:90%;
+    height:750px;
+    padding:10px;
+}
+img {
+    width:75%;
+    padding:0%;
+}
+h2 {
+    font-size:40px;
+}
+h4 {
+    font-size:20px;
+}
+.Campus {
+    border:5px solid blue;
+}
+
+.movie_head i {
+    float:right;
+}
+.movie_head {
+    font-size:30px;
+    padding:6px 22px;
+    border-radius:10px;
+    margin-bottom:20px;
+    width:100%;
+}
+.header {
+    font-size:22px;
+}
+.img-responsive {
+    width:80%;
+    margin-bottom:30px;
+}
+.Auditorium {
+    width:60%;
+}
+.p1 {
+    font-size:20px;
+    color: #058184;;
+}
